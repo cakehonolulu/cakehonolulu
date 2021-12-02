@@ -3,7 +3,8 @@
 ### I'm cakehonolulu! A *low-level* freak 💾
 
 - 🚧 I’m currently learning how LLE and HLE Emulators work
-- 🔭 About to finish my First CHIP-8 Bytecode VM Interpreter Emulator "[CCHIP8](https://github.com/cakehonolulu/CCHIP8)"
+- 🔭 My First Emulator Project: A CHIP-8 Bytecode-VM-Interpreter Emulator (CHIP-8 BVMIE for short) "[CCHIP8](https://github.com/cakehonolulu/CCHIP8)"
+- 🧠 Currently working on a DMG-01 GameBoy Emulator! "[GameGirl](https://github.com/cakehonolulu/GameGirl)"
 - 🧑🏽‍💻 I'm open for collaborations!
 - ⚡ Currently studying a double-degree in Computer Science and Mobile App/Web Development
 
