@@ -2,9 +2,9 @@
 
 ### I'm cakehonolulu! A *low-level* freak 💾
 
-- 🚧 I’m currently learning how LLE and HLE Emulators work
-- 🔭 My First Emulator Project: A CHIP-8 Bytecode-VM-Interpreter Emulator (CHIP-8 BVMIE for short) "[CCHIP8](https://github.com/cakehonolulu/CCHIP8)"
-- 🧠 Currently working on a DMG-01 GameBoy Emulator! "[GameGirl](https://github.com/cakehonolulu/GameGirl)"
+- 🚧 Currently studying JIT Compiler architecture (Goal: MOS6502->x86_64 Dynamic Recompiler)
+- 🔭 Working with LLE interpreters (CHIP8 VM Interpreter, DMG-01 GameBoy Interpreter...)
+- 🧠 Currently working on a PSX LLE Emulator! "[SimpleStation](https://github.com/cakehonolulu/SimpleStation)"
 - 🧑🏽‍💻 I'm open for collaborations!
 - ⚡ Currently studying a double-degree in Computer Science and Mobile App/Web Development
 
