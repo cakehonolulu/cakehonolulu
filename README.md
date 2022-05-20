@@ -30,7 +30,7 @@
 ### Old CTFs
 
 <spoiler>
-sadsad
+...
 </spoiler>
 
 
