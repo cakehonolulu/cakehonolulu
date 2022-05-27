@@ -18,6 +18,9 @@
 <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25" height="25" />
 <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25" height="25" />
 <img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
+<br>
+<br>
+<img alt="HTB" src="https://www.hackthebox.com/badge/image/1009760" />
 </div>
 <br>
 
