@@ -29,7 +29,8 @@
 <img alt="MySQL/MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
 <img alt="NoSQL/MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" />
 <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
- 
+<img alt="Spring Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" />
+<img alt="Hibernate Framework" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png" width="35" height="35" />
 <br>
 <h3>My HackTheBox Profile:</h3>
 <img alt="HTB" src="https://www.hackthebox.com/badge/image/1009760" />
