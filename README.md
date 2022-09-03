@@ -1,20 +1,25 @@
-## 🫧 I'm Joel, welcome to my profile!
+Hello World!
 
-### What I'm doing right now:
+My name is Joel and I am a Spanish Software Developer that has loved everything-computers since I can remember.
 
-- 🚧 Currently enrolled in a Full-Stack Bootcamp offered by T-Systems in collaboration with Esplai Jove.
-- 📖 Studying a Computer Science Degree @ UOC (Universitat Oberta de Catalunya)
-- 🚩 Constantly improving my offensive security skills (Reverse engineering, binary/web exploitation, vuln. search, recon...).
-- ⚡ Studying hardware architecture whilst developing emulators for <a href="https://github.com/cakehonolulu/GameGirl">Nintendo Game Boy (DMG-01)</a> and <a href="https://github.com/cakehonolulu/SimpleStation">Sony PlayStation 1 (PSX)</a>.
-- 🔭 Taking a glance on Just-in-Time compilation techniques.
-- 🧑🏽‍💻 Open for collaborations!
+I'm always passionate about what I do, be it web development (Front, or back end), pure software developent (High or low level) or any other code-related task; if it's programmable, chances are that I'll love it.
 
-### What I love doing:
-- 📖 Learning new things everyday.
-- 🎮 Engaging in CTF (Capture-the-Flag) Competitions; great way to practise offensive-security skills in a gamified way.
-- ✨ Programming personal projects to further improve my skill-set.
+If you want to further connect with me, don't hesitate to use any of the paths below:
+
+* [Personal Blog](https://cakehonolulu.github.io)
+* [Linkedin](https://www.linkedin.com/in/joel-bueno-calvache)
+* Email: cakehonolulu@protonmail.com
+
+Even though I started a 3-year University Degree called GTDAWIM @ Universitat Rovira i Virgili (Web and mobile app development), I'm currently enrolled on a 4-year Computer Science degree @ Universitat Oberta de Catalunya.
+
+The reasoning behind the change is that I love computers in general and I thought that I'd be loosing an important part of their quirks if I only learned Web/Mobile app development.
+
+Aso, Universitat Oberta de Catalunya is one of the first universities that lets you have your own, customized schedule so that you can also work on a company in the meantime; on the other hand, my plan is to continue improving my programming skills and expanding my knowledge!
+
+I have a *really* high interest towards Cybersecurity, that's why I plan on getting a Master's degree as sonn as I finish my current degree.
 
 ### Current skillset
+
 <div class="abilities"> 
 <img alt="C23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="35" height="35" />
 <img alt="RUST" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35" height="35" />
@@ -32,26 +37,7 @@
 <img alt="Spring Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" />
 <img alt="Hibernate Framework" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png" width="35" height="35" />
 <br>
-<h3>My HackTheBox Profile:</h3>
-<img alt="HTB" src="https://www.hackthebox.com/badge/image/1009760" />
-</div>
+<br>
 
-### Latest CTF
-
-![Twitter](resources/images/CTF-Cyber-Apocalypse-2022-cakehonolulu.jpg)
-
-<details>
-  <summary><h3>Old CTFs</h3></summary>
- 
-<a href="https://cakehonolulu.github.io/writeups/hackupc/2022/thegame.html"><h2>HackUPC's 2022 The Game CTF</h2></a>
-<img alt="HTB" src="resources/images/thegame.png" />
-
-<a href="https://cakehonolulu.github.io/writeups/hackupc/2022/aoc.html"><h2>2022 Advent of HackUPC CTF (Prelude for The Game)</h2></a>
-  <img alt="HTB" src="resources/images/advent.png" />
- 
-</details>
-
-
-### Connect with me
-
-[![Twitter](https://img.shields.io/twitter/follow/cakehonolulu?color=lightblue&label=Twitter&logo=red&logoColor=red&style=flat-square)](https://twitter.com/intent/follow?screen_name=cakehonolulu)
+<p><img align="left" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="Most used languages" /></p>
+<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="Contributions" /></p>
