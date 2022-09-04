@@ -39,5 +39,15 @@ I have a *really* high interest towards Cybersecurity, that's why I plan on gett
 <br>
 <br>
 
-<p><img align="left" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="Most used languages" /></p>
-<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="Contributions" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=light">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=light">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=dark">
+</picture>
+    
