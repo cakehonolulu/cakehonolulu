@@ -40,14 +40,14 @@ I have a *really* high interest towards Cybersecurity, that's why I plan on gett
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=light">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&theme=light">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&theme=dark">
 </picture>
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=light">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=light">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
 </picture>
     
