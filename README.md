@@ -14,7 +14,7 @@ Even though I started a 3-year University Degree called GTDAWIM @ Universitat Ro
 
 The reasoning behind the change is that I love computers in general and I thought that I'd be loosing an important part of their quirks if I only learned Web/Mobile app development.
 
-Aso, Universitat Oberta de Catalunya is one of the first universities that lets you have your own, customized schedule so that you can also work on a company in the meantime; on the other hand, my plan is to continue improving my programming skills and expanding my knowledge!
+Also, Universitat Oberta de Catalunya is one of the first universities that lets you have your own, customized schedule so that you can also work on a company in the meantime; on the other hand, my plan is to continue improving my programming skills and expanding my knowledge!
 
 I have a *really* high interest towards Cybersecurity, that's why I plan on getting a Master's degree as sonn as I finish my current degree.
 
