@@ -50,6 +50,7 @@ I have a *really* high interest towards Cybersecurity, that's why I plan on gett
 <img alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="35" height="35" />
 <img alt="Hugo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" width="35" height="35" />
 <br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
