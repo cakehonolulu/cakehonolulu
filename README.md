@@ -1,22 +1,6 @@
-Hello World!
+### About Me
 
-My name is Joel and I am a Spanish Software Developer that has loved everything-computers since I can remember.
-
-I'm always passionate about what I do, be it web development (Front, or back end), pure software developent (High or low level) or any other code-related task; if it's programmable, chances are that I'll love it.
-
-If you want to further connect with me, don't hesitate to use any of the paths below:
-
-* [Personal Blog](https://cakehonolulu.github.io)
-* [Linkedin](https://www.linkedin.com/in/joel-bueno-calvache)
-* Email: cakehonolulu@protonmail.com
-
-Even though I started a 3-year University Degree called GTDAWIM @ Universitat Rovira i Virgili (Web and mobile app development), I'm currently enrolled on a 4-year Computer Science degree @ Universitat Oberta de Catalunya.
-
-The reasoning behind the change is that I love computers in general and I thought that I'd be loosing an important part of their quirks if I only learned Web/Mobile app development.
-
-Also, Universitat Oberta de Catalunya is one of the first universities that lets you have your own, customized schedule so that you can also work on a company in the meantime; on the other hand, my plan is to continue improving my programming skills and expanding my knowledge!
-
-I have a *really* high interest towards Cybersecurity, that's why I plan on getting a Master's degree as sonn as I finish my current degree.
+I'm Joel, an Embedded Security Engineer with a lifelong passion for technology and computers. Currently pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC), I aim to balance work and study effectively. Worked as a full-stack Cloud Engineer before embarking on my low-level adventure, where I can fully express myself.
 
 ### Current skillset
 
