@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Joel, an Embedded Security Engineer with a lifelong passion for technology and computers. Currently pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC), I aim to balance work and study effectively. Worked as a full-stack Cloud Engineer before embarking on my low-level adventure, where I can fully express myself.
+I'm Joel, a Systems Software (Firmware, Operating Systems & Security) Engineer with a lifelong passion for technology and computers. Currently pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC), I aim to balance work and study effectively. Worked as a Full-stack & AWS Cloud Engineer before embarking professionally on my uttermost desire, low-level shenanigans!
 
 ### Current skillset
 
