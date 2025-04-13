@@ -1,10 +1,13 @@
 ![banner](https://github.com/user-attachments/assets/f2a9723a-aae5-4128-b978-c15bc188efca)
 
-## About Me
+## 🚀 About Me
 
-I'm Joel, a Systems Software (Firmware, Operating Systems & Security) Engineer with a lifelong passion for technology and computers. Currently pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC), I aim to balance work and study effectively. Worked as a Full-stack & AWS Cloud Engineer before embarking professionally on my uttermost desire, low-level shenanigans!
-
-## Software Stack
+- Systems Software Engineer specializing in Firmware, Operating Systems, and Security.
+- Lifelong passion for technology and computers.
+- Pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC) while balancing work and study.
+- Previous experience as a Full-stack and AWS Cloud Engineer.
+- Currently focused professionally on low-level programming and engineering.
+- Enjoys listening to music, debating, and retro gaming consoles.
 
 ### 🔧 Programming languages
 
@@ -123,6 +126,8 @@ Building end-to-end web applications.
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 </details>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
