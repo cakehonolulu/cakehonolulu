@@ -125,15 +125,15 @@ Building end-to-end web applications.
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=six_months&use_percent=True&include_private=True&compact=True&theme=classic">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=six_months&use_percent=True&include_private=True&compact=True&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=classic">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
 </picture>
 
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=classic">
+  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
 </picture>
     
