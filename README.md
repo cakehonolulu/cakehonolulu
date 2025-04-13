@@ -24,8 +24,7 @@ A blend of low-level and high-level languages for flexibility and efficiency.
 
 <details closed>
 <summary>Rest of the stack 🔩</summary>
-<br>
-
+  
 ### 🎮 Graphics & Game Development
 
 #### Graphic APIs
