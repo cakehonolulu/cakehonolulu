@@ -144,4 +144,5 @@ Building end-to-end web applications.
 
 ## 📄 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Emulators Work?](https://cakehonolulu.github.io/how-emulators-work/)
 <!-- BLOG-POST-LIST:END -->
