@@ -141,6 +141,9 @@ Building end-to-end web applications.
   <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
 </picture>
     
+## ❤️ Support
+
+[![Ko-Fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-DD0031?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/cakehonolulu)
 
 ## 📄 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
