@@ -147,6 +147,7 @@ Building end-to-end web applications.
 
 ## 📄 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pushing VisionFive 2 RISC-V board into 2025](https://cakehonolulu.github.io/open-source-ifying-the-visionfive-2/)
 - [Migrating my blog from Hugo to Zola](https://cakehonolulu.github.io/hugo-to-zola-migration/)
 - [How Emulators Work?](https://cakehonolulu.github.io/how-emulators-work/)
 <!-- BLOG-POST-LIST:END -->
