@@ -12,11 +12,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.repositories.svg
+          filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_repositories: yes
-          plugin_repositories_order: pushed
-          plugin_repositories_pinned: 0
-          plugin_repositories_starred: 0
-          plugin_repositories_random: 0
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 5
+          plugin_lines_sections: repositories
