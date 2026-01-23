@@ -128,14 +128,6 @@ Building end-to-end web applications.
 
 ---
 
-<picture>
-  <img src="./github-metrics.svg">
-</picture>
-
-## ❤️ Support
-
-[![Ko-Fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-DD0031?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/cakehonolulu)
-
 ## 📄 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introducing PCIem](https://cakehonolulu.github.io/introducing-pciem/)
@@ -144,3 +136,11 @@ Building end-to-end web applications.
 - [Migrating my blog from Hugo to Zola](https://cakehonolulu.github.io/hugo-to-zola-migration/)
 - [How Emulators Work?](https://cakehonolulu.github.io/how-emulators-work/)
 <!-- BLOG-POST-LIST:END -->
+
+<picture>
+  <img src="./github-metrics.svg">
+</picture>
+
+## ❤️ Support
+
+[![Ko-Fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-DD0031?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/cakehonolulu)
