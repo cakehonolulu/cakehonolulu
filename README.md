@@ -129,18 +129,9 @@ Building end-to-end web applications.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=classic">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/repos?time_range=one_year&loc_metric=changed&theme=dark">
+  <img src="./github-metrics.svg">
 </picture>
 
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=classic">
-  <img alt="Shows the stats in light/dark mode" src="https://api.githubtrends.io/user/svg/cakehonolulu/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark">
-</picture>
-    
 ## ❤️ Support
 
 [![Ko-Fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-DD0031?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/cakehonolulu)
