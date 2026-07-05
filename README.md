@@ -4,7 +4,6 @@
 
 - Systems Software Engineer specializing in Firmware, Operating Systems, and Security.
 - Lifelong passion for technology and computers.
-- Pursuing a Computer Science degree at the Universitat Oberta de Catalunya (UOC) while balancing work and study.
 - Previous experience as a Full-stack and AWS Cloud Engineer.
 - Currently focused professionally on low-level programming and engineering.
 - Enjoys listening to music, debating, and retro gaming consoles.
