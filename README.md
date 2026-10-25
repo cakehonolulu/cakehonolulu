@@ -129,11 +129,11 @@ Building end-to-end web applications.
 
 ## 📄 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)
 - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
 - [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/)
 - [Introducing PCIem](https://cakehonolulu.github.io/introducing-pciem/)
 - [Hardware Fastmem 101](https://cakehonolulu.github.io/improving-upon-fastmem-techniques/)
-- [Pushing VisionFive 2 RISC-V board into 2025](https://cakehonolulu.github.io/open-source-ifying-the-visionfive-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
